@@ -8,7 +8,7 @@ export default function Navbar() {
   return (
     <nav className="navbar navbar-expand-lg navbar-dark bg-primary">
       <div className="container">
-        <Link className="navbar-brand fw-bold" to="/">Shirtly</Link>
+        <Link className="navbar-brand fw-bold" to="/">Shirtlyy</Link>
         <button
           className="navbar-toggler"
           type="button"
